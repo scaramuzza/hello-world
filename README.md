@@ -17,4 +17,3 @@ JS: getElementByTagName, style.fontSize, vw;
 ## preview
 
 ![preview](https://github.com/scaramuzza/hello-world/blob/main/hello-world.png)
-dgfffg
